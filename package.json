@@ -4,7 +4,8 @@
   "description": "",
   "main": "midpointRule.js",
   "dependencies": {
-    "mathjs": "^10.6.2"
+    "mathjs": "^10.6.2",
+    "mathjs-simple-integral": "^0.1.1"
   },
   "devDependencies": {},
   "scripts": {

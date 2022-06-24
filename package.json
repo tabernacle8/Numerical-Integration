@@ -1,0 +1,23 @@
+{
+  "name": "numerical-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "midpointRule.js",
+  "dependencies": {
+    "mathjs": "^10.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabernacle8/Numerical-Integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabernacle8/Numerical-Integration/issues"
+  },
+  "homepage": "https://github.com/tabernacle8/Numerical-Integration#readme"
+}
